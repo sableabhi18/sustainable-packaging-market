@@ -27,4 +27,4 @@ Attributes: Emphasis on recyclability and biodegradability.
 Primary Use: Guidelines on labeling and traceability to empower consumers.
 Packaging Chain: Regulations covering raw material sourcing, disposal, collection, sorting, and recycling targets.
 Most countries have started by limiting certain materials and enhancing waste management through extended producer responsibility (EPR) schemes. More advanced nations have also developed infrastructure to support better design, recycling capabilities, and increased use of recycled materials. Out of the 30 countries analyzed, 28 have EPR schemes or regulations in place or in progress, with over 40% already implementing them.
-Source: [https://www.towardspackaging.com/insights/sustainable-packaging-market-sizing](url)
+Source:(https://www.towardspackaging.com/insights/sustainable-packaging-market-sizing)
